@@ -6,7 +6,7 @@
 
 - 🔎 Actively Seeking Data Analyst Roles in **Germany**
 - 👩🏻‍💻 I'm currently learning Data Science.
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/riddhi-dhameliya/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/riddhi-dhameliya/), [Portfolio](https://riddhidhameliya.carrd.co/)
 - 📫 How to reach me **riddhidhameliya01@gmail.com**
 
 
